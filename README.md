@@ -10,7 +10,7 @@ Content:
 
     1. Personal Biographical Web Page
       
-    2. Simple GUI to Show Current Time & Date
+    2. Simple ASP.NET form to Show Current Time & Date
       
     3. Web Application that Finds All the Anagrams of A Character String
       
