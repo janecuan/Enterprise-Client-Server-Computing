@@ -14,10 +14,10 @@ Content:
       
     3. Web Application that Finds All the Anagrams of A Character String
       
-    4. Unit Conversiont Tool 
+    4. Unit Conversion Tool 
       
     5. Manipulating SQL Database Application
       
     6. Voting Application Using SQL Database
       
-    
+All those were saved in folder named "Applications", check this folder to see details of each project.
