@@ -1,9 +1,11 @@
 # Enterprise-Client-Server-Computing
 This repository contains all the project I made in Web application.  
+  
 In this class,  I started by getting familiar with HTML and CSS, for the front-end Design, then using ASP.NET to implement functional web application, and know how to manipulate SQL database so as XML and Ajax.
+  
 Basically they are all done using ASP.NET and C# on Visual Studio 2015.  
   
-Content includes:  
+Content:  
 
 
     1. Personal Biographical Web Page
