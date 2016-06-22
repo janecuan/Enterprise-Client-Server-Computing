@@ -5,7 +5,7 @@ In this class,  I started by getting familiar with HTML and CSS, for the front-e
   
 Basically they are all done using ASP.NET and C# on Visual Studio 2015.  
   
-Content:  
+## Content:  
 
 
     1. Personal Biographical Web Page
@@ -18,7 +18,7 @@ Content:
       
     5. Manipulating SQL Database Application
       
-    6. [Voting Application Using SQL Database](http://www.google.com)
+    6. Voting Application Using SQL Database
       
   
   
